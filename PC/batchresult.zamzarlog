@@ -1,0 +1,45 @@
+
+C:\windows\system32>D:
+
+D:\uploadedFiles\469bec1a2ed8725a33865a3291559e62-d7a8e6f9ee81777c>cd D:\uploadedFiles\6b92403d17b064a3f7a12cbb92829413-ec828a6f77bebf27\ 
+
+D:\uploadedFiles\6b92403d17b064a3f7a12cbb92829413-ec828a6f77bebf27>C:\ZamApps\ConversionTools\IZArc\izarce -e "D:\uploadedFiles\6b92403d17b064a3f7a12cbb92829413-ec828a6f77bebf27\p1b20eg9du1alv1bgc15mj637mv4.rar" 
+IZArc Command Line Extraction Add-On Version 1.1 (Build: 130)
+Copyright(c) 2007 Ivan Zahariev, All Rights Reserved.
+http://www.izarc.org    contact@izarc.org
+
+
+Archive File: p1b20eg9du1alv1bgc15mj637mv4.rar
+
+  extracting: api_key.txt                                         OK
+  extracting: bumps.js                                            OK
+  extracting: bump_merge.txt                                      OK
+  extracting: client.py                                           OK
+  extracting: convertToJson.py                                    OK
+  extracting: final_acc_merge.txt                                 OK
+  extracting: index.html                                          OK
+  extracting: mqtt.py                                             OK
+  extracting: publish.py                                          OK
+  extracting: report.pdf                                          OK
+  extracting: road.html                                           OK
+  extracting: road.js                                             OK
+  extracting: road_data.txt                                       OK
+  extracting: terrain.js                                          OK
+  extracting: terrain1.js                                         OK
+  extracting: tilts.js                                            OK
+  extracting: tilt_merge.txt                                      OK
+  extracting: wifi.html                                           OK
+  extracting: wifi.js                                             OK
+  extracting: wifi.json                                           OK
+  extracting: wifi_2.html                                         OK
+  extracting: wifi_raw.txt                                        OK
+  extracting: wifi_realtime.html                                  OK
+
+D:\uploadedFiles\6b92403d17b064a3f7a12cbb92829413-ec828a6f77bebf27>C:\ZamApps\ConversionTools\IZArc\izarcc -a "D:\uploadedFiles\6b92403d17b064a3f7a12cbb92829413-ec828a6f77bebf27\p1b20eg9du1alv1bgc15mj637mv4.zip" "*.*" 
+IZArc Command Line Compression Add-On Version 1.1 (Build: 130)
+Copyright(c) 2007 Ivan Zahariev, All Rights Reserved.
+http://www.izarc.org    contact@izarc.org
+
+Archive File: p1b20eg9du1alv1bgc15mj637mv4.zip
+
+   adding: api_key.txt                    
